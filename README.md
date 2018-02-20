@@ -1,2 +1,3 @@
-# hello-world
-Just another repositary
+Hi everyone!
+
+My name is Mimoza :)
